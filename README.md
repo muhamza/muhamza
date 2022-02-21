@@ -3,7 +3,7 @@
 - 🔭 I'm working as a full stack software engineer.
 - 🌱 I’m always learning new technologies and good coding practices.
 - 🥅 **Goals**: Explore system designing.
-- 📫 **How to reach me:** scroll down.
+- 📫 **How to reach me:** LinkedIn
 - 😄 **Pronouns:** he/him
 - ⚡ **Fun fact:** I like to solve puzzles.
 
