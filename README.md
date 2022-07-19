@@ -1,9 +1,9 @@
-## Hi there 👋, I am Hamza Shahid
+## Hi there 👋, <br> I am Hamza Shahid
 
-- 🔭 I'm working as a full stack software engineer.
-- 🌱 I’m always learning new technologies and good coding practices.
+- 🔭 I am working as a full stack software engineer with over three years of experience.
+- 🌱 I love learning new technologies and good coding practices.
 - 🥅 **Goals**: Explore system designing.
-- 📫 **How to reach me:** LinkedIn
+- 📫 **How to reach me:** [LinkedIn](https://linkedin.com/in/muhash)
 - 😄 **Pronouns:** he/him
 - ⚡ **Fun fact:** I like to solve puzzles.
 
