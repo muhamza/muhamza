@@ -42,3 +42,5 @@
 #### My Stats
 
 [![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhamza&theme=dark&show_icons=true&count_private=true)](https://github.com/muhamza)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=muhamza&theme=dark)](https://git.io/streak-stats)
