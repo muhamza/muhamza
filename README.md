@@ -1,11 +1,11 @@
-## Hi there 👋, <br> I am Hamza Shahid
+## Hi there 👋, I am Hamza Shahid
 
-- 🔭 I am working as a full stack software engineer with over three years of experience.
-- 🌱 I love learning new technologies and good coding practices.
-- 🥅 **Goals**: Explore system designing.
-- 📫 **How to reach me:** [LinkedIn](https://linkedin.com/in/muhash)
-- 😄 **Pronouns:** he/him
-- ⚡ **Fun fact:** I like to solve puzzles.
+- 🔭 I am a full stack software engineer with over three years of experience.
+- 🚀 I love learning new technologies and good coding practices.
+- 🥅 **Goals**: Live a healthy lifestyle 💪 and explore system designing 🖥️.
+- 🌎 **How to reach me:** [LinkedIn](https://linkedin.com/in/muhash)
+- 👨‍💼 **Pronouns:** he/him
+- ⚡ **Fun fact:** I love solving puzzles 🧩. My fastest time to solve a 3x3 Rubix cube is 50 seconds.
 
 #### Connect with me:
 
