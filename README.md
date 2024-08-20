@@ -7,7 +7,6 @@
 - 👨‍💼 **Pronouns:** he/him
 - ⚡ **Fun fact:** I love solving puzzles 🧩. My fastest time to solve a 3x3 Rubik's cube is 50 seconds.
   
-<br />
 
 #### Connect with me:
 
@@ -17,7 +16,6 @@
 [![GitHub](./img/github-light.svg)](https://github.com/muhamza#gh-light-mode-only)
 [![GitHub](./img/github-dark.svg)](https://github.com/muhamza#gh-dark-mode-only)
 
-<br />
 
 #### My Stats
 
