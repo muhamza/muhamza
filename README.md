@@ -1,24 +1,39 @@
-## Hi there 👋, I am Hamza Shahid
+# Hi there 👋, I'm Hamza Shahid
 
-- 🔭 I am a full-stack software engineer with over five years of experience.
-- 🚀 I love learning new technologies and good coding practices.
-- 🥅 **Goals**: Live a healthy lifestyle 💪 and explore system design 🖥️.
-- 🌎 **How to reach me:** [LinkedIn](https://linkedin.com/in/muhash)
-- 👨‍💼 **Pronouns:** he/him
-- ⚡ **Fun fact:** I love solving puzzles 🧩. My fastest time to solve a 3x3 Rubik's cube is 50 seconds.
-  
+I'm a Full-Stack Software Engineer with 7+ years of experience building scalable, high-quality web applications. I enjoy solving complex problems and delivering efficient, user-focused solutions.
 
-#### Connect with me:
+---
 
-[![LinkedIn](./img/linkedin-light.svg)](https://linkedin.com/in/muhash#gh-light-mode-only)
-[![LinkedIn](./img/linkedin-dark.svg)](https://linkedin.com/in/muhash#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![GitHub](./img/github-light.svg)](https://github.com/muhamza#gh-light-mode-only)
-[![GitHub](./img/github-dark.svg)](https://github.com/muhamza#gh-dark-mode-only)
+## 🔗 Connect with Me
 
+- 💼 [LinkedIn](https://linkedin.com/in/muhash)
+- 💻 [GitHub](https://github.com/muhamza)
+---
 
-#### My Stats
+## 📊 GitHub Stats
 
-[![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhamza&theme=dark&show_icons=true&count_private=true)](https://github.com/muhamza)
+<p align="center">
+  <a href="https://github.com/muhamza">
+    <img src="https://github-readme-stats.vercel.app/api?username=muhamza&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" />
+  </a>
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=muhamza&theme=dark)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=muhamza&theme=dark" alt="GitHub Streak" />
+  </a>
+</p>
+
+---
+
+## 🚀 About Me
+
+- 💻 Full-stack development experience across modern web technologies  
+- ⚙️ Strong focus on performance, scalability, and clean architecture  
+- 🤝 Open to collaboration on interesting projects  
+
+---
+
+## 📫 Contact
+
+Feel free to reach out via [LinkedIn](https://linkedin.com/in/muhash) for opportunities, collaborations, or just a quick chat.
